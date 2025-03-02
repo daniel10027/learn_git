@@ -7,8 +7,8 @@ changes using a variety of Git commands. Each step is accompanied by a screensho
 
 ## Table of Contents 📚
 
-00. [Github New Repository Page] ![S6](screens/S1.png)
-0. [Github Page For Defined Repository Informations](screens/S2.png)
+00. [Github New Repository Page] ![S6](screens/S00.png)
+0. [Github Page For Defined Repository Informations]![S6](screens/S0.png)
 1. 
 
 ---
