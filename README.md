@@ -18,28 +18,28 @@ After creating the repository, you'll be directed to a page with information abo
 
 ---
 
-## 1. [GitHub Page For Defined Repository Information] 🔍
+## 1. [Create a folder called learn_git.] 🔍
 ![S1](screens/S1.png)
 
 This step shows the GitHub page after your repository has been defined. You'll see basic information about your repository, like its name and description.
 
 ---
 
-## 2. [Clone Your Repository Locally] 💻
+## 2. [Cd (change directory) into the learn_git folder.] 💻
 ![S2](screens/S2.png)
 
 Clone your newly created GitHub repository to your local machine using the `git clone` command. This allows you to work on your files locally.
 
 ---
 
-## 3. [Navigate to the Local Repository] 🧭
+## 3. [Create a file called third.txt.] 🧭
 ![S3](screens/S3.png)
 
 After cloning, navigate into the project folder. This step shows how to move into your project directory using `cd <repo_name>`.
 
 ---
 
-## 4. [Create a New File - `third.txt`] ✍️
+## 4. [Initialize an empty git repository] ✍️
 ![S4](screens/S4.png)
 
 Here, we create a new file called `third.txt` in the local repository using the `touch` command.
@@ -109,52 +109,53 @@ Commit the removal of `third.txt` with a message like `"removing third.txt"` to 
 
 ---
 
-## 14. [Change Git Configuration - `core.pager=cat`] ⚙️
+## 14. [Check Commits using git log] 🔍
 ![S14](screens/S14.png)
 
 Here, we modify the global Git configuration to set `core.pager=cat`, which allows you to view logs without pagination.
 
 ---
 
-## 15. [Check Current Git Configuration] 🔧
-![S15](screens/S15.png)
+## 15. [Change Git Configuration - `core.pager=cat`] ⚙️
+![S14](screens/S15.png)
+
+Here, we modify the global Git configuration to set `core.pager=cat`, which allows you to view logs without pagination.
+
+---
+
+## 16. [Check Current Git Configuration] 🔧
+![S15](screens/S16.png)
 
 Use the `git config --global --list` command to check the global configuration settings applied to your Git installation.
 
 ---
 
-## 16. [Add Remote Repository] 🌍
-![S16](screens/S16.png)
+## 17. [Add Remote Repository] 🌍
+![S16](screens/S17.png)
 
 Add a remote repository (like GitHub) with the `git remote add origin` command to link your local repository to a remote one.
 
 ---
 
-## 17. [Push Changes to Remote Repository] 🚀
-![S17](screens/S17.png)
+## 18. [Branch  Remote] 🚀
+![S17](screens/S18.png)
+
+Branch remote repository on GitHub using `git branch -M main`.
+
+---
+
+
+## 19. [Push Changes to Remote Repository] 🚀
+![S17](screens/S19.png)
 
 Push your local commits to the remote repository on GitHub using `git push -u origin main`.
 
 ---
 
-## 18. [Create a New Branch - `feature_branch`] 🌿
-![S18](screens/S18.png)
-
-Create a new branch to work on a feature using the `git branch <branch_name>` command.
-
----
-
-## 19. [Switch to the New Branch] 🔄
-![S19](screens/S19.png)
-
-Switch to your new branch using the `git checkout <branch_name>` command to start working on the feature.
-
----
-
-## 20. [Merge Branch into Main] 🔀
+## 20. [Fianl Result ] 🔀
 ![S20](screens/S20.png)
 
-Finally, merge your new branch into the main branch using `git merge <branch_name>` to incorporate changes into the main branch.
+Finally, available on [https://github.com/daniel10027/learn_git.git]
 
 ---
 
