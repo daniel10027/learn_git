@@ -152,7 +152,7 @@ Push your local commits to the remote repository on GitHub using `git push -u or
 
 ---
 
-## 20. [Fianl Result ] 🔀
+## 20. [Final Result ] 🔀
 ![S20](screens/S20.png)
 
 Finally, available on [https://github.com/daniel10027/learn_git.git]
