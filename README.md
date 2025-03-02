@@ -7,11 +7,18 @@ This repository showcases a detailed, step-by-step process of learning Git with 
 ## 00. [GitHub New Repository Page] 📄
 ![S00](screens/S00.png)
 
-This is where you start by creating a new repository on GitHub. Fill out the repository name, description, and other settings.
+This is the page where you start by creating a new repository on GitHub. Fill out the repository name, description, and other settings.
 
 ---
 
-## 1. [GitHub Page For Defined Repository Informations] 🔍
+## 0. [GitHub Page For Defined Repository Information] 🔍
+![S0](screens/S0.png)
+
+After creating the repository, you'll be directed to a page with information about the defined repository, including its name and description.
+
+---
+
+## 1. [GitHub Page For Defined Repository Information] 🔍
 ![S1](screens/S1.png)
 
 This step shows the GitHub page after your repository has been defined. You'll see basic information about your repository, like its name and description.
